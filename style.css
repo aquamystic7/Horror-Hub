@@ -1,23 +1,26 @@
 body{
     text-align: center;
-    background-color: black;
     color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('images/punk-bg.png');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-color: #ffb0c1;
 }
 body h2{
-        color: darkred;
+        color: #ff1493;
         text-align: center;
         margin-bottom: 20px;
         margin-left: 20px;
 
 }
 .center-box a{
-    color: darkred;
+    color: #ff1493;
     text-decoration: none;
     font-weight: bold;
     transition: color 1.0s ease;
 }
 .center-box a:hover{
-    color: black;
+    color: white;
 }
 .center-box{
     display: flex;
@@ -27,7 +30,8 @@ body h2{
     width: fit-content;
     margin: 30px auto;
     padding: 15px 25px;
-    background-color: grey;
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 2px solid #ff1493;
     border-radius: 5px;
 }
 .center-box h2{
@@ -55,12 +59,12 @@ body h2{
     height: auto;
     margin-right: 20px;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(139, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgba(255, 20, 147, 0.3);
     transition: transform 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
 }
 .poster:hover{
     transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(139, 0, 0, 0.8);
+    box-shadow: 0 8px 16px rgba(255, 20, 147, 0.8);
 }
 .movie-container{
     display: grid;
@@ -76,7 +80,7 @@ body h2{
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: rgba(0, 0, 0, 0.85);
+    background-color: rgba(0, 0, 0, 0.9);
     justify-content: center;
     align-items: center;
     
@@ -85,10 +89,10 @@ body h2{
     display: flex;
 }
 .popup-content{
-    background-color: #000000;
+    background-color: #111111;
     padding: 20px;
     border-radius: 10px;
-    border-top: 5px solid darkred;
+    border-top: 5px solid #ff1493;
     max-width: 600px;
     width: 90%;
     max-height: 90vh;
@@ -106,7 +110,7 @@ body h2{
     top: 10px;
     right: 10px;
     font-size: 2rem;
-    color: darkred;
+    color: #ff1493;
     font-weight: bold;
     text-decoration: none;
 }
@@ -131,19 +135,19 @@ body h2{
     height: 300px;
     object-fit: cover;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(139, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgba(255, 20, 147, 0.3);
     transition: transform 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
 }
 .gallery-img:hover{
     transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(139, 0, 0, 0.8);
+    box-shadow: 0 8px 16px rgba(255, 20, 147, 0.8);
 }
 .popup-content h2 a{
     display: inline-block;
     margin-top: 15px;
     padding: 12px 30px;
-    background-color: darkred;
-    color: black;
+    background-color: #ff1493;
+    color: white;
     text-decoration: none;
     border-radius: 5px;
     font-size: 1.2rem;
@@ -152,8 +156,8 @@ body h2{
     transition: background-color 1s ease, transform 1s ease, box-shadow 1s ease;
 }
 .popup-content h2 a:hover{
-    background-color: red;
-    color: grey;
+    background-color: #ff1493;
+    color: black;
     transform: scale(1.05);
     box-shadow: 0 6px 12px rgba(255, 0, 0, 0.8);
 }
