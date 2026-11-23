@@ -11,6 +11,7 @@ Demo link:- https://horror-hub-one.vercel.app
 
 ## HOW THIS WAS MADE
 This website is made using basics of coding:) 
+
 |
 |── index.html
 |── script.js
