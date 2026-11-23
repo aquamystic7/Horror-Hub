@@ -3,6 +3,7 @@ Hey! cool boys/girls, this is a simple website with a crazy bg I think, on this 
 
 # Screenshot and Demo
 Demo link:- https://horror-hub-one.vercel.app
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2b68eb3a-34aa-45a7-a8b5-acf3e05c2520" />
 <img width="1366" height="768" alt="Screenshot 2026-11-23 10 21 52 PM" src="https://github.com/user-attachments/assets/fbde1529-ed28-4757-bb35-f077d439fd51" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0213d6d9-8f46-4429-bb1f-b6c700137f4c" />
