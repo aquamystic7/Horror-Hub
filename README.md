@@ -15,7 +15,7 @@ This website is made using basics of coding:)
 |
 |── index.html
 |── script.js
- Google for Pictures and Details..
+Google for Images, Details and Links..
 
 ## Here's how to run the project
 1. Clone the source code to your device
