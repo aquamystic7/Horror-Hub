@@ -11,11 +11,9 @@ Demo link:- https://horror-hub-one.vercel.app
 
 ## HOW THIS WAS MADE
 This website is made using basics of coding:) 
-
-|
-|── index.html
-|── script.js
-Google for Images, Details and Links..
+1. HTML
+2. CSS
+3. Google for Images, Details and Links..
 
 ## Here's how to run the project
 1. Clone the source code to your device
